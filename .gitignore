@@ -1,0 +1,17 @@
+# Compiled C executable
+C/statistics.exe
+
+# OCaml compiled files
+*.cmi
+*.cmo
+*.cmx
+*.o
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Editor and operating system files
+.vscode/
+.DS_Store
+Thumbs.db
